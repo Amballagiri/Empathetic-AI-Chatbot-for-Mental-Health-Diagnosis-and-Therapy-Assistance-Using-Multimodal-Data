@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pydantic==2.*
+transformers
+torch
+scikit-learn
+numpy
+pandas
+librosa
+soundfile
+python-multipart
+jinja2
+faster-whisper
+mediapipe
+opencv-python
+onnxruntime
+mlflow
