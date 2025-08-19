@@ -3,7 +3,7 @@
 > Educational project for **supportive screening** only. Not a medical device. Not for emergencies.
 > In emergencies in India: **112**, Tele-MANAS **14416 / 1-800-891-4416**, KIRAN **1800-599-0019**.
 
-## 🔧 How to Run (Step-by-Step)
+## How to Run (Step-by-Step)
 1) **Unzip** this folder.
 2) Open a terminal in the project root and create a virtual env:
    ```bash
@@ -31,7 +31,7 @@
 8) **Code to read/edit:** explore `src/` to customize modules (safety, risk, empathy etc.).
 9) **Next steps:** replace stub models with trained models (see comments in code).
 
-## 📁 Project Layout
+## Project Layout
 ```
 src/
   app/               # FastAPI app + routes
